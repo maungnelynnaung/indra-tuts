@@ -6,9 +6,9 @@
 
 INDRA Innovation & Communication is a Mandalay-based tech group formed by members with proven experience in mass communication and public relation, design, software development, geographic information management (GIS) and remote sensing, peace and conflict research, data science, robotics and IOT application development. The founding members have diverse expertise and experience in social science, computer science and engineering disciplines.
 
-## File/Folder Name Convention 
+## File/Folder Naming Convention 
 
-Style: yyyy-mm-dd keyword
+Style: yyyy-mm-dd keyword (snake_case)
 
 Example: 2024-09-11_pandasgui 
 
